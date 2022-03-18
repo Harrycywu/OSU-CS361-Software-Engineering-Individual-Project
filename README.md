@@ -7,7 +7,7 @@ Enter the following commands into your terminals:
 ```
 $ python3 search-server.py
 $ python3 search-news.py
-$ Ui.py
+$ python3 Ui.py
 ```
 
 Follow the instructions on each page to use the features of the Ui program.
