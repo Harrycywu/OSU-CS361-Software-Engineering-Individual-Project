@@ -16,3 +16,7 @@ Features include:
 * View the stocks market data in the past three months by entering and selecting the ticker
 * View the relevant news of this specified stock
 * View the stocks market data in the form of a line chart
+
+**Demonstration Video**
+
+https://media.oregonstate.edu/media/t/1_s3of2t9n
