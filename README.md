@@ -12,7 +12,7 @@ My Grade: A (101.5%)
 # Project Name: Financial Monitoring Software
 **Introduction**
 
-Apply Agile methodology to develop software with features that allow users to monitor financial markets via market data and news. Specifically, I developed the GUI with Tkinter, used Yahoo Finance API to retrieve stock data, and Matplotlib to visualize stock trends. I also built several microservices (e.g., Grab Data, Search, etc.) with my teammates, integrated them into the program, and used synchronous protocols like HTTP requests to communicate between each software.
+Applied Agile methodology to develop software with features that allow users to monitor financial markets via market data and news. Specifically, I developed the GUI with Tkinter, used Yahoo Finance API to retrieve stock data, and Matplotlib to visualize stock trends. I also built several microservices (e.g., Grab Data, Search, etc.) with my teammates, integrated them into the program, and used synchronous protocols like HTTP requests to communicate between each software.
 
 **How to run the program**
 
